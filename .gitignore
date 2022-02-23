@@ -16,3 +16,9 @@ sandbox/build/classes/java/main/FirstProgram.class
 sandbox/build/libs/sandbox.jar
 sandbox/build/tmp/compileJava/previous-compilation-data.bin
 sandbox/build/tmp/jar/MANIFEST.MF
+sandbox/build/distributions/sandbox.tar
+sandbox/build/distributions/sandbox.zip
+sandbox/build/scripts/sandbox
+sandbox/build/scripts/sandbox.bat
+sandbox/out/production/classes/FirstProgram.class
+sandbox/out/production/classes/Point.class
